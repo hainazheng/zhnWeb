@@ -130,7 +130,7 @@ margin-left:0px;
 margin-top:0px;
 height:100vh;
 
-background:url(image/光.png);
+background:url(image/鹿芒.png);
 background-size:cover;
 background-position:right;
 overflow:hidden;
@@ -178,7 +178,7 @@ transform:translateX(1600px);
 }
 }
 .list li:nth-child(1){
-background:url(image/光.png);
+background:url(image/鹿芒.png);
 background-size:cover;
 left:calc(-400px*4);
 
@@ -189,7 +189,7 @@ left:calc(-400px*3);
 background-size:cover;
 }
 .list li:nth-child(3){
-background:url(image/教程.png);
+background:url(image/陆脤鲁脤.png);
 left:calc(-400px*2);
 background-size:100%;
 }
@@ -199,7 +199,7 @@ left:calc(-400px*1);
 background-size:cover;
 }
 .list li:nth-child(5){
-background:url(image/妮.png);
+background:url(image/脛脻.png);
 left:0px;
 background-size:cover;
 }
