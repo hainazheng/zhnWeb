@@ -172,7 +172,7 @@ border-radius:50%;}
 
 
 .contain .right div,input,button,span{
-    /* ³¬³öÏÔÊ¾Ê¡ÂÔºÅ£¨ĞèÒªÉèÖÃwidth£© */
+    /* è¶…å‡ºæ˜¾ç¤ºçœç•¥å·ï¼ˆéœ€è¦è®¾ç½®widthï¼‰ */
     width: calc(100% -60px);
     text-overflow: ellipsis;
     overflow: hidden;
