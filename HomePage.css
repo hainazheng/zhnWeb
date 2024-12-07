@@ -178,7 +178,7 @@ transform:translateX(1600px);
 }
 }
 .list li:nth-child(1){
-background:url(image/ni.png);
+background:url(image/jiaocheng.png);
 background-size:cover;
 left:calc(-400px*4);
 
@@ -189,7 +189,7 @@ left:calc(-400px*3);
 background-size:cover;
 }
 .list li:nth-child(3){
-background:url(image/jiaocheng.png);
+background:url(image/ni.png);
 left:calc(-400px*2);
 background-size:100%;
 }
@@ -199,7 +199,7 @@ left:calc(-400px*1);
 background-size:cover;
 }
 .list li:nth-child(5){
-background:url(image/ni.png);
+background:url(image/jiaocheng.png);
 left:0px;
 background-size:cover;
 }
